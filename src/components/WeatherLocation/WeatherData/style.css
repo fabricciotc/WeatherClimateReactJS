@@ -1,0 +1,18 @@
+.weatherData{
+    background-color: rgb(207, 207, 207);
+    border-radius: 20px;
+    display: inline-flex;
+    width: -webkit-fill-available;
+}
+.weatherExtra{
+    align-self: center;
+    color: rgb(31, 31, 163);
+    font-weight: 650;
+    text-align: left;
+}
+.weatherTmp{
+
+    align-self: center;
+    font-weight: bold;
+}
+
